@@ -1,0 +1,7 @@
+{
+  "name": "abbrry",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
